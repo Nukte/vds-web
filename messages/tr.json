@@ -1,0 +1,156 @@
+{
+  "common": {
+    "skipToContent": "İçeriğe geç",
+    "loading": "Yükleniyor…",
+    "error": "Bir hata oluştu",
+    "notFound": "Sayfa bulunamadı",
+    "backToHome": "Ana sayfaya dön"
+  },
+  "nav": {
+    "home": "Ana Sayfa",
+    "about": "Hakkımda",
+    "projects": "Projeler",
+    "blog": "Blog",
+    "contact": "İletişim",
+    "apps": "Uygulamalar"
+  },
+  "theme": {
+    "toggle": "Temayı değiştir",
+    "light": "Açık",
+    "dark": "Koyu",
+    "system": "Sistem"
+  },
+  "language": {
+    "toggle": "Dili değiştir",
+    "tr": "Türkçe",
+    "en": "English"
+  },
+  "auth": {
+    "email": "E-posta",
+    "password": "Şifre",
+    "signIn": "Giriş Yap",
+    "signingIn": "Giriş yapılıyor…",
+    "signInError": "E-posta veya şifre hatalı.",
+    "adminLogin": "Yönetici Girişi",
+    "adminLoginDesc": "Bu sayfa yalnızca yetkilendirilmiş kullanıcılara açıktır."
+  },
+  "about": {
+    "title": "Hakkımda",
+    "description": "Yazılımcı ve tasarımcı.",
+    "pageLabel": "Hakkımda",
+    "tagline": "Yazılım Geliştirici",
+    "photoPlaceholder": "Fotoğraf",
+    "bio": "Merhaba! Ben Ali Kemal Kara. Tuzla Meslek Lisesi'nde yazılım bölümü okudum ve şu anda Akdeniz Üniversitesi'nde Bilgisayar Programcılığı bölümünde eğitimime devam ediyorum. Yazılım geliştirme alanında kendimi sürekli geliştirmeye odaklı bir öğrenciyim.",
+    "sectionExperience": "Deneyim",
+    "sectionEducation": "Eğitim",
+    "exp0Title": "R&D Team | ML Pipeline Development",
+    "exp0Company": "Akdeniz Veri Bilimi Topluluğu",
+    "exp0Period": "Eki 2025 – Halen · 6 ay",
+    "exp0Location": "Antalya, Türkiye · Hibrit",
+    "exp0Description": "Araştırma-geliştirme vaka çalışmaları için uçtan uca ML pipeline'ları geliştirme; ham veri ön işlemeden model değerlendirmesine kadar tüm süreçleri kapsıyor.",
+    "exp1Title": "Software Developer Internship",
+    "exp1Company": "NETAŞ",
+    "exp1Period": "Eyl 2023 – Haz 2024 · 10 ay",
+    "exp1Location": "Pendik, İstanbul, Türkiye · Ofisten",
+    "edu0Title": "Akdeniz Üniversitesi",
+    "edu0Degree": "Önlisans — Bilgisayar Programcılığı",
+    "edu0Period": "Eyl 2025 – Haz 2027",
+    "edu1Title": "Tuzla Mesleki Ve Teknik Anadolu Lisesi",
+    "edu1Degree": "Öğrenci — Yazılım Geliştirme",
+    "edu1Period": "Eyl 2020 – Mar 2024",
+    "edu1Description": "TÜBİTAK fizik projesi (sıvı basıncı) · Özel günlerde koro gitaristi · Okul bahçesi ağaçlandırma çalışmaları"
+  },
+  "contact": {
+    "title": "İletişim",
+    "description": "Benimle iletişime geçin.",
+    "github": "GitHub",
+    "linkedin": "LinkedIn",
+    "email": "E-posta"
+  },
+  "footer": {
+    "rights": "Tüm hakları saklıdır."
+  },
+  "apps": {
+    "title": "Uygulamalar",
+    "description": "Sık kullandığım araçlara ve uygulamalara hızlı erişim.",
+    "empty": "Henüz uygulama eklenmedi.",
+    "visitApp": "Uygulamaya git"
+  },
+  "projects": {
+    "title": "Projeler",
+    "description": "Geliştirdiğim projelerin vitrini.",
+    "empty": "Henüz proje yok.",
+    "viewOnGithub": "GitHub",
+    "viewLive": "Canlı Demo"
+  },
+  "blog": {
+    "title": "Blog",
+    "description": "Yazılarım ve notlarım.",
+    "empty": "Henüz blog yazısı yok.",
+    "readMore": "Yazıyı oku",
+    "publishedAt": "{date} tarihinde yayınlandı",
+    "backToBlog": "Bloga Dön"
+  },
+  "home": {
+    "hero": {
+      "tagline": "Yazılım Geliştirici & Tasarımcı",
+      "description": "Hassasiyet ve amaçla dijital deneyimler inşa ediyorum. Göründüğü kadar iyi hissettiren arayüzler tasarlıyorum.",
+      "wit": "Hata değil; sadece belgelenmemiş bir özellik.",
+      "serious": "Kod makineler için değil, insanlar anlasın diye yazılır."
+    },
+    "projects": {
+      "title": "Seçili Çalışmalar",
+      "viewAll": "Tüm Projeleri Gör",
+      "visitSite": "Siteyi Ziyaret Et",
+      "viewCode": "Kaynak Kodu"
+    },
+    "blog": {
+      "title": "Son Yazılar",
+      "viewAll": "Tüm Yazıları Gör",
+      "readMore": "Yazıyı Oku"
+    },
+    "scrollHint": "Keşfetmek için kaydır"
+  },
+  "admin": {
+    "dashboard": "Dashboard",
+    "apps": "Uygulamalar",
+    "manageApps": "Uygulamaları yönet",
+    "manageProjects": "Projeleri yönet",
+    "manageBlog": "Blog yazılarını yönet",
+    "addNew": "Yeni Ekle",
+    "edit": "Düzenle",
+    "delete": "Sil",
+    "save": "Kaydet",
+    "saving": "Kaydediliyor…",
+    "cancel": "İptal",
+    "name": "Uygulama Adı",
+    "url": "URL",
+    "icon": "İkon",
+    "orderIndex": "Sıra",
+    "confirmDelete": "Bu uygulamayı silmek istediğinize emin misiniz?",
+    "deleteSuccess": "Uygulama silindi.",
+    "saveSuccess": "Uygulama kaydedildi.",
+    "welcome": "Hoş geldiniz",
+    "adminPanel": "Admin Paneli",
+    "projects": "Projeler",
+    "projectTitle": "Başlık",
+    "description": "Açıklama",
+    "tags": "Etiketler (virgülle ayırın)",
+    "githubUrl": "GitHub URL",
+    "liveUrl": "Canlı URL",
+    "confirmDeleteProject": "Bu projeyi silmek istediğinize emin misiniz?",
+    "projectSaveSuccess": "Proje kaydedildi.",
+    "projectDeleteSuccess": "Proje silindi.",
+    "blog": "Blog",
+    "blogSlug": "Slug",
+    "blogPublishedAt": "Yayın Tarihi",
+    "blogTitleTr": "Türkçe Başlık",
+    "blogContentTr": "Türkçe İçerik (Markdown)",
+    "blogTitleEn": "İngilizce Başlık",
+    "blogContentEn": "İngilizce İçerik (Markdown)",
+    "blogCoverImage": "Kapak Görseli",
+    "confirmDeleteBlog": "Bu blog yazısını silmek istediğinize emin misiniz?",
+    "blogSaveSuccess": "Blog yazısı kaydedildi.",
+    "blogDeleteSuccess": "Blog yazısı silindi."
+  }
+}

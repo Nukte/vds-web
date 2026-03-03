@@ -1,0 +1,156 @@
+{
+  "common": {
+    "skipToContent": "Skip to content",
+    "loading": "Loading…",
+    "error": "Something went wrong",
+    "notFound": "Page not found",
+    "backToHome": "Back to home"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "blog": "Blog",
+    "contact": "Contact",
+    "apps": "Apps"
+  },
+  "theme": {
+    "toggle": "Toggle theme",
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System"
+  },
+  "language": {
+    "toggle": "Change language",
+    "tr": "Türkçe",
+    "en": "English"
+  },
+  "auth": {
+    "email": "Email",
+    "password": "Password",
+    "signIn": "Sign In",
+    "signingIn": "Signing in…",
+    "signInError": "Invalid email or password.",
+    "adminLogin": "Admin Login",
+    "adminLoginDesc": "This page is restricted to authorized users only."
+  },
+  "about": {
+    "title": "About",
+    "description": "Software developer & designer.",
+    "pageLabel": "About Me",
+    "tagline": "Software Developer",
+    "photoPlaceholder": "Photo",
+    "bio": "Hi! I'm Ali Kemal Kara. I studied software development at Tuzla Vocational High School and I'm currently continuing my education at Akdeniz University in the Computer Programming department. I'm a student focused on continuously improving myself in the field of software development.",
+    "sectionExperience": "Experience",
+    "sectionEducation": "Education",
+    "exp0Title": "R&D Team | ML Pipeline Development",
+    "exp0Company": "Akdeniz Data Science Community",
+    "exp0Period": "Oct 2025 – Present · 6 mo",
+    "exp0Location": "Antalya, Turkey · Hybrid",
+    "exp0Description": "Developing end-to-end ML pipelines for R&D case studies, covering everything from raw data preprocessing to model evaluation.",
+    "exp1Title": "Software Developer Internship",
+    "exp1Company": "NETAŞ",
+    "exp1Period": "Sep 2023 – Jun 2024 · 10 mo",
+    "exp1Location": "Pendik, Istanbul, Turkey · On-site",
+    "edu0Title": "Akdeniz University",
+    "edu0Degree": "Associate — Computer Programming",
+    "edu0Period": "Sep 2025 – Jun 2027",
+    "edu1Title": "Tuzla Vocational and Technical Anatolian High School",
+    "edu1Degree": "Student — Software Development",
+    "edu1Period": "Sep 2020 – Mar 2024",
+    "edu1Description": "TÜBİTAK physics project (liquid pressure) · Choir guitarist on special occasions · Afforestation work in the school garden"
+  },
+  "contact": {
+    "title": "Contact",
+    "description": "Get in touch.",
+    "github": "GitHub",
+    "linkedin": "LinkedIn",
+    "email": "Email"
+  },
+  "footer": {
+    "rights": "All rights reserved."
+  },
+  "apps": {
+    "title": "Apps",
+    "description": "Quick access to tools and applications I use frequently.",
+    "empty": "No apps added yet.",
+    "visitApp": "Visit app"
+  },
+  "projects": {
+    "title": "Projects",
+    "description": "A showcase of things I have built.",
+    "empty": "No projects yet.",
+    "viewOnGithub": "GitHub",
+    "viewLive": "Live Demo"
+  },
+  "blog": {
+    "title": "Blog",
+    "description": "My writings and notes.",
+    "empty": "No blog posts yet.",
+    "readMore": "Read article",
+    "publishedAt": "Published on {date}",
+    "backToBlog": "Back to Blog"
+  },
+  "home": {
+    "hero": {
+      "tagline": "Software Developer & Designer",
+      "description": "Building digital experiences with precision and purpose. Crafting interfaces that feel as good as they look.",
+      "wit": "It's not a bug. It's an undocumented feature.",
+      "serious": "Code is written for humans to understand, not for machines to run."
+    },
+    "projects": {
+      "title": "Selected Work",
+      "viewAll": "View All Projects",
+      "visitSite": "Visit Site",
+      "viewCode": "Source Code"
+    },
+    "blog": {
+      "title": "Latest Writing",
+      "viewAll": "View All Posts",
+      "readMore": "Read Article"
+    },
+    "scrollHint": "Scroll to explore"
+  },
+  "admin": {
+    "dashboard": "Dashboard",
+    "apps": "Apps",
+    "manageApps": "Manage applications",
+    "manageProjects": "Manage projects",
+    "manageBlog": "Manage blog posts",
+    "addNew": "Add New",
+    "edit": "Edit",
+    "delete": "Delete",
+    "save": "Save",
+    "saving": "Saving…",
+    "cancel": "Cancel",
+    "name": "App Name",
+    "url": "URL",
+    "icon": "Icon",
+    "orderIndex": "Order",
+    "confirmDelete": "Are you sure you want to delete this app?",
+    "deleteSuccess": "App deleted.",
+    "saveSuccess": "App saved.",
+    "welcome": "Welcome",
+    "adminPanel": "Admin Panel",
+    "projects": "Projects",
+    "projectTitle": "Title",
+    "description": "Description",
+    "tags": "Tags (comma separated)",
+    "githubUrl": "GitHub URL",
+    "liveUrl": "Live URL",
+    "confirmDeleteProject": "Are you sure you want to delete this project?",
+    "projectSaveSuccess": "Project saved.",
+    "projectDeleteSuccess": "Project deleted.",
+    "blog": "Blog",
+    "blogSlug": "Slug",
+    "blogPublishedAt": "Published At",
+    "blogTitleTr": "Turkish Title",
+    "blogContentTr": "Turkish Content (Markdown)",
+    "blogTitleEn": "English Title",
+    "blogContentEn": "English Content (Markdown)",
+    "blogCoverImage": "Cover Image",
+    "confirmDeleteBlog": "Are you sure you want to delete this blog post?",
+    "blogSaveSuccess": "Blog post saved.",
+    "blogDeleteSuccess": "Blog post deleted."
+  }
+}
